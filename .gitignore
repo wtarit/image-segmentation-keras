@@ -1,5 +1,5 @@
 data/
-
+weights/
 
 
 sync.expect
@@ -106,3 +106,4 @@ ENV/
 
 # VSCode settings
 .vscode/
+*.ipynb
